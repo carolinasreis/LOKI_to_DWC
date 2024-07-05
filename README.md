@@ -1,0 +1,1 @@
+This is an short tutorial to show how to standardize Ecotaxa exported data from imaging systems (LOKI) into Darwin Core - following the Biodiversity Information Standards (TDWG) (https://dwc.tdwg.org/).
